@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Caracteres"},{"p":"<Unnamed>","l":"CaracteresNoPermitidos"},{"p":"<Unnamed>","l":"CrearFicheroLog"}];updateSearchResults();

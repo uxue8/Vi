@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-21T07:31:39.388758Z</date>
+  <millis>1682062299388</millis>
+  <nanos>758000</nanos>
+  <sequence>0</sequence>
+  <logger>CrearFicheroLog</logger>
+  <level>FINE</level>
+  <class>CrearFicheroLog</class>
+  <method>configurarLog</method>
+  <thread>1</thread>
+  <message>sjisjisj</message>
+</record>
+<record>
+  <date>2023-04-21T07:31:43.128564Z</date>
+  <millis>1682062303128</millis>
+  <nanos>564000</nanos>
+  <sequence>1</sequence>
+  <logger>CrearFicheroLog</logger>
+  <level>FINE</level>
+  <class>CrearFicheroLog</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>hola</message>
+</record>
+</log>
